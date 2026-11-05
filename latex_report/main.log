@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.11.5)  5 NOV 2026 21:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.11.5)  5 NOV 2026 21:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -322,29 +322,15 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-<images/github_icon.png, id=2, 8.6724pt x 8.6724pt>
-File: images/github_icon.png Graphic file (type png)
-<use images/github_icon.png>
-Package pdftex.def Info: images/github_icon.png  used on input line 39.
-(pdftex.def)             Requested size: 9.77559pt x 9.77509pt.
-
 
 LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
 (Font)              using `OT1/ptm/bx/n' instead on input line 39.
 
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 3
-9.
-LaTeX Font Info:    No file OT1pcr.fd. on input line 39.
-
-LaTeX Font Warning: Font shape `OT1/pcr/m/n' undefined
-(Font)              using `OT1/cmr/m/n' instead on input line 39.
-
-
-Overfull \hbox (2.47926pt too wide) in paragraph at lines 39--39
- []\OT1/cmr/m/n/8 https://github.com/WebProject05/EMG_PhysicalSignal_Analysis[]
- 
- []
-
+<images/github_icon.png, id=2, 8.6724pt x 8.6724pt>
+File: images/github_icon.png Graphic file (type png)
+<use images/github_icon.png>
+Package pdftex.def Info: images/github_icon.png  used on input line 39.
+(pdftex.def)             Requested size: 13.50081pt x 13.50008pt.
 
 LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
 (Font)              using `OT1/ptm/bx/n' instead on input line 43.
@@ -393,7 +379,7 @@ LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
 LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
 (Font)              using `OT1/ptm/bx/n' instead on input line 73.
 
-<images/00_proposed_pipeline_block_diagram.png, id=17, 857.604pt x 317.988pt>
+<images/00_proposed_pipeline_block_diagram.png, id=15, 857.604pt x 317.988pt>
 File: images/00_proposed_pipeline_block_diagram.png Graphic file (type png)
 <use images/00_proposed_pipeline_block_diagram.png>
 Package pdftex.def Info: images/00_proposed_pipeline_block_diagram.png  used on
@@ -419,6 +405,13 @@ Underfull \hbox (badness 3568) in paragraph at lines 92--93
 
 LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
 (Font)              using `OT1/ptm/bx/n' instead on input line 93.
+
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 9
+3.
+LaTeX Font Info:    No file OT1pcr.fd. on input line 93.
+
+LaTeX Font Warning: Font shape `OT1/pcr/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 93.
 
 
 Underfull \hbox (badness 3078) in paragraph at lines 93--94
@@ -473,13 +466,13 @@ LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
 LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
 (Font)              using `OT1/ptm/bx/n' instead on input line 115.
 
-<images/01_normal_action_bowing_raw_emg.png, id=18, 1002.3849pt x 860.7357pt>
+<images/01_normal_action_bowing_raw_emg.png, id=16, 1002.3849pt x 860.7357pt>
 File: images/01_normal_action_bowing_raw_emg.png Graphic file (type png)
 <use images/01_normal_action_bowing_raw_emg.png>
 Package pdftex.def Info: images/01_normal_action_bowing_raw_emg.png  used on in
 put line 123.
 (pdftex.def)             Requested size: 252.0pt x 216.37857pt.
-<images/02_aggressive_action_punching_raw_emg.png, id=19, 1002.3849pt x 860.735
+<images/02_aggressive_action_punching_raw_emg.png, id=17, 1002.3849pt x 860.735
 7pt>
 File: images/02_aggressive_action_punching_raw_emg.png Graphic file (type png)
 <use images/02_aggressive_action_punching_raw_emg.png>
@@ -494,7 +487,7 @@ LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
 LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
 (Font)              using `OT1/ptm/bx/n' instead on input line 138.
 
-<images/03_feature_profiles_bowing_vs_punching.png, id=20, 1146.9249pt x 424.22
+<images/03_feature_profiles_bowing_vs_punching.png, id=18, 1146.9249pt x 424.22
 49pt>
 File: images/03_feature_profiles_bowing_vs_punching.png Graphic file (type png)
 
@@ -507,7 +500,7 @@ Underfull \hbox (badness 1968) in paragraph at lines 163--165
 []\OT1/pcr/m/n/10 Target vec-tors are de-fined for both clas-si-fi-ca-tion
  []
 
-<images/04_dataset_class_distributions.png, id=28, 1146.9249pt x 351.9549pt>
+<images/04_dataset_class_distributions.png, id=26, 1146.9249pt x 351.9549pt>
 File: images/04_dataset_class_distributions.png Graphic file (type png)
 <use images/04_dataset_class_distributions.png>
 Package pdftex.def Info: images/04_dataset_class_distributions.png  used on inp
@@ -572,14 +565,14 @@ LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
 LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
 (Font)              using `OT1/ptm/bx/n' instead on input line 203.
 
-<images/05_binary_confusion_matrix_and_roc.png, id=36, 1074.6549pt x 424.2249pt
+<images/05_binary_confusion_matrix_and_roc.png, id=35, 1074.6549pt x 424.2249pt
 >
 File: images/05_binary_confusion_matrix_and_roc.png Graphic file (type png)
 <use images/05_binary_confusion_matrix_and_roc.png>
 Package pdftex.def Info: images/05_binary_confusion_matrix_and_roc.png  used on
  input line 211.
 (pdftex.def)             Requested size: 252.0pt x 99.47276pt.
-<images/06_binary_k_tuning_curve.png, id=37, 641.0349pt x 351.2322pt>
+<images/06_binary_k_tuning_curve.png, id=36, 641.0349pt x 351.2322pt>
 File: images/06_binary_k_tuning_curve.png Graphic file (type png)
 <use images/06_binary_k_tuning_curve.png>
 Package pdftex.def Info: images/06_binary_k_tuning_curve.png  used on input lin
@@ -589,7 +582,7 @@ e 223.
 LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
 (Font)              using `OT1/ptm/bx/n' instead on input line 228.
 
-<images/07_pairwise_bowing_vs_elbowing_confusion_matrix.png, id=38, 423.5022pt 
+<images/07_pairwise_bowing_vs_elbowing_confusion_matrix.png, id=37, 423.5022pt 
 x 351.2322pt>
 File: images/07_pairwise_bowing_vs_elbowing_confusion_matrix.png Graphic file (
 type png)
@@ -633,13 +626,13 @@ Overfull \hbox (0.76418pt too wide) in paragraph at lines 252--277
  [][] 
  []
 
-<images/08_monte_carlo_multiclass_heatmap.png, id=48, 923.6106pt x 712.5822pt>
+<images/08_monte_carlo_multiclass_heatmap.png, id=47, 923.6106pt x 712.5822pt>
 File: images/08_monte_carlo_multiclass_heatmap.png Graphic file (type png)
 <use images/08_monte_carlo_multiclass_heatmap.png>
 Package pdftex.def Info: images/08_monte_carlo_multiclass_heatmap.png  used on 
 input line 281.
 (pdftex.def)             Requested size: 252.0pt x 194.42216pt.
-<images/09_multiclass_performance_degradation_curve.png, id=49, 857.8449pt x 42
+<images/09_multiclass_performance_degradation_curve.png, id=48, 857.8449pt x 42
 4.2249pt>
 File: images/09_multiclass_performance_degradation_curve.png Graphic file (type
  png)
@@ -667,7 +660,7 @@ LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
 LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
 (Font)              using `OT1/ptm/bx/n' instead on input line 301.
 
-<images/10_full_20_class_confusion_matrix.png, id=50, 1002.3849pt x 857.8449pt>
+<images/10_full_20_class_confusion_matrix.png, id=49, 1002.3849pt x 857.8449pt>
 
 File: images/10_full_20_class_confusion_matrix.png Graphic file (type png)
 <use images/10_full_20_class_confusion_matrix.png>
@@ -726,20 +719,6 @@ LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
 LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
 (Font)              using `OT1/ptm/bx/n' instead on input line 325.
 
-File: images/github_icon.png Graphic file (type png)
-<use images/github_icon.png>
-Package pdftex.def Info: images/github_icon.png  used on input line 343.
-(pdftex.def)             Requested size: 10.20064pt x 10.20012pt.
-
-LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
-(Font)              using `OT1/ptm/bx/n' instead on input line 343.
-
-
-Overfull \hbox (2.47926pt too wide) in paragraph at lines 343--343
- []\OT1/pcr/m/n/8 https://github.com/WebProject05/EMG_PhysicalSignal_Analysis[]
- 
- []
-
 [6
 
 ] (main.aux)
@@ -753,10 +732,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 3157 strings out of 467871
- 56397 string characters out of 5418376
- 477917 words of memory out of 5000000
- 32048 multiletter control sequences out of 15000+600000
+ 3155 strings out of 467871
+ 56366 string characters out of 5418376
+ 477920 words of memory out of 5000000
+ 32046 multiletter control sequences out of 15000+600000
  633680 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,9n,65p,1542b,282s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -775,9 +754,9 @@ b><C:/Users/chsan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmsy10.pfb><C:/Users/chsan/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmsy7.pfb><C:/Users/chsan/AppData/Local/Programs/MiKTeX/fonts/type1/pu
 blic/amsfonts/cm/cmsy8.pfb>
-Output written on main.pdf (6 pages, 1727250 bytes).
+Output written on main.pdf (6 pages, 1725247 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
+ 112 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 

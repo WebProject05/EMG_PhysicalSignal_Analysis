@@ -18,7 +18,7 @@
 \title{Analysis and Classification of Physical Actions Using Surface Electromyography (sEMG) Signals}
 
 \author{
-    \IEEEauthorblockN{Academic Course Project Report} \\
+    \IEEEauthorblockN{Academic Course Assignment Report} \\
     \IEEEauthorblockA{Analysis of Physical Actions Using EMG Signal Classification}
 }
 
@@ -26,19 +26,19 @@
 
 \maketitle
 
-% First page GitHub repository callout box with icon
+% First page GitHub repository callout box with icon (link embedded in icon)
 \begin{center}
 \fbox{%
-  \parbox{0.95\columnwidth}{%
-    \centering\footnotesize
+  \parbox{0.55\columnwidth}{%
+    \centering\normalsize
+    \textbf{GitHub Repo:}~~%
     \hrefgh{https://github.com/WebProject05/EMG_PhysicalSignal_Analysis}{%
-      \raisebox{-0.25ex}{\includegraphics[height=1.15em]{github_icon.png}}~\textbf{Project Code \& Data on GitHub:}\\
-      \texttt{https://github.com/WebProject05/EMG\_PhysicalSignal\_Analysis}%
+      \raisebox{-0.3ex}{\includegraphics[height=1.35em]{github_icon.png}}%
     }%
   }%
 }
 \end{center}
-\vspace{0.8em}
+\vspace{0.5em}
 
 \begin{abstract}
 Surface electromyography (sEMG) measures the electrical activity that muscles produce when they contract. In this project, we analyze an 8-channel sEMG dataset to classify different human physical actions. The dataset contains recordings from 4 subjects performing 20 different actions, split evenly into 10 normal daily activities (such as walking, standing, and waving) and 10 aggressive actions (such as punching, kicking, and elbowing), with 15 trials per action for a total of 1,200 trials. We extract statistical features by dividing each trial into four time segments and computing the mean and standard deviation for each channel, creating a 64-dimensional feature vector. We then use a $k$-Nearest Neighbors ($k$-NN) classifier inside a leakage-free standardization pipeline with 5-fold cross-validation. In binary classification between normal and aggressive actions, the model achieves an accuracy of 84.08\% (with an optimal $k=1$ achieving 85.50\%) and an AUC of 0.91. For multiclass classification, we study how accuracy decreases as the number of classes grows from $M=2$ to $M=19$ using Monte Carlo sampling across 10 random combinations per class count. The accuracy drops gradually from 83.83\% for 2 classes down to 35.73\% for 19 classes, remaining well above random chance. On the complete 20-class task, the system achieves 35.08\% accuracy compared to the 5\% random guessing level. All code and notebooks are publicly available in the linked GitHub repository.
@@ -326,21 +326,5 @@ Using a data-leakage-free $k$-NN classification pipeline with 5-fold cross-valid
 \end{itemize}
 
 These findings confirm that surface EMG signals capture rich physiological information capable of separating broad behavioral classes and nuanced physical movements. The lightweight computational requirements of this approach make it highly suitable for implementation in wearable health and safety devices.
-
-\vspace{1.5em}
-\section*{Open-Source Code and Repository Availability}
-To maintain complete reproducibility, the full Python codebase, data preprocessing scripts, five Jupyter notebooks, and extracted figures have been published online. Readers and evaluators can inspect the implementation, verify results, and clone the repository directly from GitHub:
-
-\begin{center}
-\fbox{%
-  \parbox{0.95\columnwidth}{%
-    \centering\footnotesize
-    \hrefgh{https://github.com/WebProject05/EMG_PhysicalSignal_Analysis}{%
-      \raisebox{-0.25ex}{\includegraphics[height=1.2em]{github_icon.png}}~\textbf{GitHub Repository:}\\
-      \texttt{https://github.com/WebProject05/EMG\_PhysicalSignal\_Analysis}%
-    }%
-  }%
-}
-\end{center}
 
 \end{document}
