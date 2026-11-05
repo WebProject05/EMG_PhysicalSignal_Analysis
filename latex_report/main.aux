@@ -1,0 +1,45 @@
+\relax 
+\@writefile{toc}{\contentsline {section}{\numberline {I}Motivation for the Classification Problem}{1}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {II}Introduction to Physical Actions Classification Using Machine Learning Approaches}{1}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {III}Block Diagram of the Proposed Classification Approach}{2}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {IV}Implementation of the Method on the Physical Actions Dataset}{2}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {IV-A}}Short Description of the Dataset}{2}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {IV-B}}Visual Inspection of Raw Waveforms}{2}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {IV-C}}Feature Extraction Formulation}{2}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Block diagram of the proposed surface EMG physical action classification approach, showing raw data acquisition, trial slicing, temporal feature extraction, leakage-free standardization, and classification into binary and multiclass case studies.}}{3}{}\protected@file@percent }
+\newlabel{fig:block_diagram}{{1}{3}{}{figure.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Raw 8-channel sEMG signals recorded during the normal action ``Bowing'' (Subject 1). Notice the smooth, steady electrical activity primarily concentrated on the leg channels (CH5--CH8).}}{3}{}\protected@file@percent }
+\newlabel{fig:raw_bowing}{{2}{3}{}{figure.2}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {IV-D}}Label Assignment and Dataset Balance}{3}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Raw 8-channel sEMG signals recorded during the aggressive action ``Punching'' (Subject 1). Sharp, high-amplitude bursts are evident in the arm muscle channels (CH1--CH4).}}{3}{}\protected@file@percent }
+\newlabel{fig:raw_punching}{{3}{3}{}{figure.3}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Comparison of 64-dimensional feature profiles between Bowing (Normal) and Punching (Aggressive). Distinct peaks clearly distinguish arm-driven strikes from leg-supported trunk bending.}}{3}{}\protected@file@percent }
+\newlabel{fig:feature_profiles}{{4}{3}{}{figure.4}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Dataset balance check. Left: Exactly 60 trials per multiclass action. Right: Exactly 600 Normal trials vs. 600 Aggressive trials.}}{4}{}\protected@file@percent }
+\newlabel{fig:label_dist}{{5}{4}{}{figure.5}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {V}Case Studies}{4}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {V-A}}Case Study A: Binary Classification Analysis}{4}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {\mbox  {V-A}1}Normal vs. Aggressive Classification (1,200 Samples)}{4}{}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {I}{\ignorespaces Classification Performance for Normal vs. Aggressive Discrimination}}{4}{}\protected@file@percent }
+\newlabel{tab:binary_report}{{I}{4}{}{table.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Binary classification analysis. Left: Confusion matrix showing 521 correctly classified Normal trials and 488 correctly classified Aggressive trials. Right: Receiver Operating Characteristic (ROC) curve showing an AUC of 0.91.}}{4}{}\protected@file@percent }
+\newlabel{fig:binary_cm_roc}{{6}{4}{}{figure.6}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {\mbox  {V-A}2}Hyperparameter Exploration: Neighborhood Size $k$}{4}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Cross-validation accuracy versus neighborhood size $k$ for binary classification. The best performance occurs at $k=1$ ($85.50\% \pm 2.92\%$).}}{4}{}\protected@file@percent }
+\newlabel{fig:k_tuning}{{7}{4}{}{figure.7}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {\mbox  {V-A}3}Pairwise Action Discrimination (Bowing vs. Elbowing)}{4}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Pairwise confusion matrix for Bowing vs. Elbowing (120 trials). The classifier achieved $84.17\% \pm 8.90\%$ 5-fold cross-validation accuracy.}}{4}{}\protected@file@percent }
+\newlabel{fig:pairwise_cm}{{8}{4}{}{figure.8}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {V-B}}Case Study B: Multi-Class Classification Analysis}{4}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {\mbox  {V-B}1}Monte Carlo Degradation Protocol ($M = 2$ to $19$)}{4}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces Accuracy heatmap across $M=2$ to $19$ classes and 10 Monte Carlo runs per $M$. Variance is high for small $M$ and stabilizes as $M$ grows larger.}}{5}{}\protected@file@percent }
+\newlabel{fig:heatmap}{{9}{5}{}{figure.9}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces Cross-validation accuracy degradation curve across $M=2$ to $19$ action classes. The mean accuracy curve with $\pm 1$ standard deviation error band consistently outperforms the theoretical random guessing chance level ($100/M\%$).}}{5}{}\protected@file@percent }
+\newlabel{fig:degradation_curve}{{10}{5}{}{figure.10}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {\mbox  {V-B}2}Full 20-Class Benchmark and Confusion Matrix}{5}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {11}{\ignorespaces Full 20-class confusion matrix across all 1,200 trials. The visible diagonal demonstrates robust multi-action recognition well above random chance.}}{5}{}\protected@file@percent }
+\newlabel{fig:full_cm}{{11}{5}{}{figure.11}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {VI}Conclusion}{5}{}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {II}{\ignorespaces Multiclass Accuracy Degradation Summary Across Number of Classes $M = 2$ to $19$}}{6}{}\protected@file@percent }
+\newlabel{tab:degradation}{{II}{6}{}{table.2}{}}
+\gdef \@abspage@last{6}

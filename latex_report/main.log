@@ -1,0 +1,783 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.11.5)  5 NOV 2026 21:10
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./main.tex
+(main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+(IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen148
+\@IEEEtrantmpdimenB=\dimen149
+\@IEEEtrantmpdimenC=\dimen150
+\@IEEEtrantmpcountA=\count275
+\@IEEEtrantmpcountB=\count276
+\@IEEEtrantmpcountC=\count277
+\@IEEEtrantmptoksA=\toks17
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 5
+03.
+LaTeX Font Info:    No file OT1ptm.fd. on input line 503.
+
+LaTeX Font Warning: Font shape `OT1/ptm/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 503.
+
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen151
+-- This is a 10 point document.
+LaTeX Encoding Info:    Redeclaring text command \textunderscore (encoding ?) o
+n input line 937.
+\CLASSINFOnormalsizebaselineskip=\dimen152
+\CLASSINFOnormalsizeunitybaselineskip=\dimen153
+\IEEEnormaljot=\dimen154
+
+LaTeX Font Warning: Font shape `OT1/ptm/bx/n' undefined
+(Font)              using `OT1/ptm/m/n' instead on input line 1090.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/m/it' undefined
+(Font)              using `OT1/ptm/m/n' instead on input line 1090.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/bx/it' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 1090.
+
+\IEEEquantizedlength=\dimen155
+\IEEEquantizedlengthdiff=\dimen156
+\IEEEquantizedtextheightdiff=\dimen157
+\IEEEilabelindentA=\dimen158
+\IEEEilabelindentB=\dimen159
+\IEEEilabelindent=\dimen160
+\IEEEelabelindent=\dimen161
+\IEEEdlabelindent=\dimen162
+\IEEElabelindent=\dimen163
+\IEEEiednormlabelsep=\dimen164
+\IEEEiedmathlabelsep=\dimen165
+\IEEEiedtopsep=\skip49
+\c@section=\count278
+\c@subsection=\count279
+\c@subsubsection=\count280
+\c@paragraph=\count281
+\c@IEEEsubequation=\count282
+\abovecaptionskip=\skip50
+\belowcaptionskip=\skip51
+\c@figure=\count283
+\c@table=\count284
+\@IEEEeqnnumcols=\count285
+\@IEEEeqncolcnt=\count286
+\@IEEEsubeqnnumrollback=\count287
+\@IEEEquantizeheightA=\dimen166
+\@IEEEquantizeheightB=\dimen167
+\@IEEEquantizeheightC=\dimen168
+\@IEEEquantizeprevdepth=\dimen169
+\@IEEEquantizemultiple=\count288
+\@IEEEquantizeboxA=\box53
+\@IEEEtmpitemindent=\dimen170
+\IEEEPARstartletwidth=\dimen171
+\c@IEEEbiography=\count289
+\@IEEEtranrubishbin=\box54
+) (C:\Users\chsan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+(C:\Users\chsan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(C:\Users\chsan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\chsan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\chsan\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(C:\Users\chsan\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen172
+\Gin@req@width=\dimen173
+) (C:\Users\chsan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip52
+For additional information on amsmath, use the `?' option.
+(C:\Users\chsan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+
+(C:\Users\chsan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen174
+))
+(C:\Users\chsan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen175
+)
+(C:\Users\chsan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count290
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count291
+\leftroot@=\count292
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count293
+\DOTSCASE@=\count294
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen176
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count295
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count296
+\dotsspace@=\muskip17
+\c@parentequation=\count297
+\dspbrk@lvl=\count298
+\tag@help=\toks20
+\row@=\count299
+\column@=\count300
+\maxfields@=\count301
+\andhelp@=\toks21
+\eqnshift@=\dimen177
+\alignsep@=\dimen178
+\tagshift@=\dimen179
+\tagwidth@=\dimen180
+\totwidth@=\dimen181
+\lineht@=\dimen182
+\@envbody=\toks22
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+)
+(C:\Users\chsan\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(C:\Users\chsan\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen183
+\ar@mcellbox=\box57
+\extrarowheight=\dimen184
+\NC@list=\toks24
+\extratabsurround=\skip55
+\backup@length=\skip56
+\ar@cellbox=\box58
+)
+(C:\Users\chsan\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+\TX@col@width=\dimen185
+\TX@old@table=\dimen186
+\TX@old@col=\dimen187
+\TX@target=\dimen188
+\TX@delta=\dimen189
+\TX@cols=\count302
+\TX@ftn=\toks25
+)
+(C:\Users\chsan\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count303
+) (main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 25.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/it' undefined
+(Font)              using `OT1/ptm/bx/it' instead on input line 25.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 25.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/it' undefined
+(Font)              using `OT1/ptm/bx/it' instead on input line 25.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 25.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/it' undefined
+(Font)              using `OT1/ptm/bx/it' instead on input line 25.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 25.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/it' undefined
+(Font)              using `OT1/ptm/bx/it' instead on input line 25.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 25.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/it' undefined
+(Font)              using `OT1/ptm/bx/it' instead on input line 25.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 25.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/it' undefined
+(Font)              using `OT1/ptm/bx/it' instead on input line 25.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 25.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/it' undefined
+(Font)              using `OT1/ptm/bx/it' instead on input line 25.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 25.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/it' undefined
+(Font)              using `OT1/ptm/bx/it' instead on input line 25.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 25.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/it' undefined
+(Font)              using `OT1/ptm/bx/it' instead on input line 25.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 25.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/it' undefined
+(Font)              using `OT1/ptm/bx/it' instead on input line 25.
+
+-- Lines per column: 58 (exact).
+
+(C:\Users\chsan\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count304
+\scratchdimen=\dimen190
+\scratchbox=\box59
+\nofMPsegments=\count305
+\nofMParguments=\count306
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count307
+\MPscratchDim=\dimen191
+\MPnumerator=\count308
+\makeMPintoPDFobject=\count309
+\everyMPtoPDFconversion=\toks27
+)
+(C:\Users\chsan\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\chsan\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+<images/github_icon.png, id=2, 8.6724pt x 8.6724pt>
+File: images/github_icon.png Graphic file (type png)
+<use images/github_icon.png>
+Package pdftex.def Info: images/github_icon.png  used on input line 39.
+(pdftex.def)             Requested size: 9.77559pt x 9.77509pt.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 39.
+
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 3
+9.
+LaTeX Font Info:    No file OT1pcr.fd. on input line 39.
+
+LaTeX Font Warning: Font shape `OT1/pcr/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 39.
+
+
+Overfull \hbox (2.47926pt too wide) in paragraph at lines 39--39
+ []\OT1/cmr/m/n/8 https://github.com/WebProject05/EMG_PhysicalSignal_Analysis[]
+ 
+ []
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 43.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 47.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/m/sc' undefined
+(Font)              using `OT1/ptm/m/n' instead on input line 51.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 52.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 58.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 59.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 60.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 61.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 71.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 72.
+
+[1{C:/Users/chsan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+
+ <./images/github_icon.png>]
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 73.
+
+<images/00_proposed_pipeline_block_diagram.png, id=17, 857.604pt x 317.988pt>
+File: images/00_proposed_pipeline_block_diagram.png Graphic file (type png)
+<use images/00_proposed_pipeline_block_diagram.png>
+Package pdftex.def Info: images/00_proposed_pipeline_block_diagram.png  used on
+ input line 83.
+(pdftex.def)             Requested size: 474.71906pt x 176.01962pt.
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 90.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 91.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 92.
+
+
+Underfull \hbox (badness 3568) in paragraph at lines 92--93
+[]\OT1/ptm/m/sc/10 Feature Ex-trac-tion: Com-put-ing two sta-tis-ti-cal
+ []
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 93.
+
+
+Underfull \hbox (badness 3078) in paragraph at lines 93--94
+[]\OT1/pcr/m/n/10 Leakage-Free Pre-pro-cess-ing: Em-bed-ding fea-ture
+ []
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 94.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 96.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 97.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 106.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 107.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 109.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 109.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 110.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 111.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 112.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 114.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 115.
+
+<images/01_normal_action_bowing_raw_emg.png, id=18, 1002.3849pt x 860.7357pt>
+File: images/01_normal_action_bowing_raw_emg.png Graphic file (type png)
+<use images/01_normal_action_bowing_raw_emg.png>
+Package pdftex.def Info: images/01_normal_action_bowing_raw_emg.png  used on in
+put line 123.
+(pdftex.def)             Requested size: 252.0pt x 216.37857pt.
+<images/02_aggressive_action_punching_raw_emg.png, id=19, 1002.3849pt x 860.735
+7pt>
+File: images/02_aggressive_action_punching_raw_emg.png Graphic file (type png)
+<use images/02_aggressive_action_punching_raw_emg.png>
+Package pdftex.def Info: images/02_aggressive_action_punching_raw_emg.png  used
+ on input line 130.
+(pdftex.def)             Requested size: 252.0pt x 216.37857pt.
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 137.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 138.
+
+<images/03_feature_profiles_bowing_vs_punching.png, id=20, 1146.9249pt x 424.22
+49pt>
+File: images/03_feature_profiles_bowing_vs_punching.png Graphic file (type png)
+
+<use images/03_feature_profiles_bowing_vs_punching.png>
+Package pdftex.def Info: images/03_feature_profiles_bowing_vs_punching.png  use
+d on input line 155.
+(pdftex.def)             Requested size: 252.0pt x 93.20677pt.
+[2]
+Underfull \hbox (badness 1968) in paragraph at lines 163--165
+[]\OT1/pcr/m/n/10 Target vec-tors are de-fined for both clas-si-fi-ca-tion
+ []
+
+<images/04_dataset_class_distributions.png, id=28, 1146.9249pt x 351.9549pt>
+File: images/04_dataset_class_distributions.png Graphic file (type png)
+<use images/04_dataset_class_distributions.png>
+Package pdftex.def Info: images/04_dataset_class_distributions.png  used on inp
+ut line 171.
+(pdftex.def)             Requested size: 252.0pt x 77.32828pt.
+[3 <./images/00_proposed_pipeline_block_diagram.png> <./images/01_normal_action
+_bowing_raw_emg.png> <./images/02_aggressive_action_punching_raw_emg.png> <./im
+ages/03_feature_profiles_bowing_vs_punching.png>]
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 185.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 186.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 187.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 188.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 198.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 198.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 198.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 198.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 198.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 203.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 203.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 203.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 203.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 203.
+
+<images/05_binary_confusion_matrix_and_roc.png, id=36, 1074.6549pt x 424.2249pt
+>
+File: images/05_binary_confusion_matrix_and_roc.png Graphic file (type png)
+<use images/05_binary_confusion_matrix_and_roc.png>
+Package pdftex.def Info: images/05_binary_confusion_matrix_and_roc.png  used on
+ input line 211.
+(pdftex.def)             Requested size: 252.0pt x 99.47276pt.
+<images/06_binary_k_tuning_curve.png, id=37, 641.0349pt x 351.2322pt>
+File: images/06_binary_k_tuning_curve.png Graphic file (type png)
+<use images/06_binary_k_tuning_curve.png>
+Package pdftex.def Info: images/06_binary_k_tuning_curve.png  used on input lin
+e 223.
+(pdftex.def)             Requested size: 221.76123pt x 121.50215pt.
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 228.
+
+<images/07_pairwise_bowing_vs_elbowing_confusion_matrix.png, id=38, 423.5022pt 
+x 351.2322pt>
+File: images/07_pairwise_bowing_vs_elbowing_confusion_matrix.png Graphic file (
+type png)
+<use images/07_pairwise_bowing_vs_elbowing_confusion_matrix.png>
+Package pdftex.def Info: images/07_pairwise_bowing_vs_elbowing_confusion_matrix
+.png  used on input line 235.
+(pdftex.def)             Requested size: 189.0pt x 156.74533pt.
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 240.
+
+[4 <./images/04_dataset_class_distributions.png> <./images/05_binary_confusion_
+matrix_and_roc.png> <./images/06_binary_k_tuning_curve.png> <./images/07_pairwi
+se_bowing_vs_elbowing_confusion_matrix.png>]
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 254.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 254.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 254.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 254.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 254.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 254.
+
+
+Overfull \hbox (0.76418pt too wide) in paragraph at lines 252--277
+ [][] 
+ []
+
+<images/08_monte_carlo_multiclass_heatmap.png, id=48, 923.6106pt x 712.5822pt>
+File: images/08_monte_carlo_multiclass_heatmap.png Graphic file (type png)
+<use images/08_monte_carlo_multiclass_heatmap.png>
+Package pdftex.def Info: images/08_monte_carlo_multiclass_heatmap.png  used on 
+input line 281.
+(pdftex.def)             Requested size: 252.0pt x 194.42216pt.
+<images/09_multiclass_performance_degradation_curve.png, id=49, 857.8449pt x 42
+4.2249pt>
+File: images/09_multiclass_performance_degradation_curve.png Graphic file (type
+ png)
+<use images/09_multiclass_performance_degradation_curve.png>
+Package pdftex.def Info: images/09_multiclass_performance_degradation_curve.png
+  used on input line 290.
+(pdftex.def)             Requested size: 252.0pt x 124.62093pt.
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 295.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 300.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 300.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 301.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 301.
+
+<images/10_full_20_class_confusion_matrix.png, id=50, 1002.3849pt x 857.8449pt>
+
+File: images/10_full_20_class_confusion_matrix.png Graphic file (type png)
+<use images/10_full_20_class_confusion_matrix.png>
+Package pdftex.def Info: images/10_full_20_class_confusion_matrix.png  used on 
+input line 306.
+(pdftex.def)             Requested size: 252.0pt x 215.65186pt.
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 313.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 314.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 323.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 323.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 323.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 323.
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 323--324
+[]\OT1/pcr/m/n/10 Binary Clas-si-fi-ca-tion: Achieved 84.08% ac-cu-racy
+ []
+
+[5 <./images/08_monte_carlo_multiclass_heatmap.png> <./images/09_multiclass_per
+formance_degradation_curve.png> <./images/10_full_20_class_confusion_matrix.png
+>]
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 324.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 324.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 324.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 325.
+
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 325.
+
+File: images/github_icon.png Graphic file (type png)
+<use images/github_icon.png>
+Package pdftex.def Info: images/github_icon.png  used on input line 343.
+(pdftex.def)             Requested size: 10.20064pt x 10.20012pt.
+
+LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
+(Font)              using `OT1/ptm/bx/n' instead on input line 343.
+
+
+Overfull \hbox (2.47926pt too wide) in paragraph at lines 343--343
+ []\OT1/pcr/m/n/8 https://github.com/WebProject05/EMG_PhysicalSignal_Analysis[]
+ 
+ []
+
+[6
+
+] (main.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3157 strings out of 467871
+ 56397 string characters out of 5418376
+ 477917 words of memory out of 5000000
+ 32048 multiletter control sequences out of 15000+600000
+ 633680 words of font info for 61 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,9n,65p,1542b,282s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/chsan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmex10.pfb><C:/Users/chsan/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmmi10.pfb><C:/Users/chsan/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmmi7.pfb><C:/Users/chsan/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/chsan/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/chsan/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/chsan/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/chsan/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/ch
+san/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/U
+sers/chsan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pf
+b><C:/Users/chsan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb><C:/Users/chsan/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmsy7.pfb><C:/Users/chsan/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmsy8.pfb>
+Output written on main.pdf (6 pages, 1727250 bytes).
+PDF statistics:
+ 115 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+
